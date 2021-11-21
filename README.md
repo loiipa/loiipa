@@ -3,6 +3,10 @@
 **Programming Language :**
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python%2B%2B&logoColor=white"/>
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cjang?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=loiipa)
+
 <!--
 **loiipa/loiipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
